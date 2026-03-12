@@ -1,5 +1,5 @@
 CC = g++
-CFLAGS = -Wall -Wextra -O2 -g
+CFLAGS = -Wall -Wextra -O2
 LDFLAGS = -lm
 SRC = main.cpp
 OBJ = $(SRC:.cpp=.o)
