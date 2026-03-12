@@ -1,9 +1,9 @@
 CC = g++
 CFLAGS = -Wall -Wextra -O2 -g
 LDFLAGS = -lm
-SRC = main.cpp
+SRC = optimised.cpp
 OBJ = $(SRC:.cpp=.o)
-TARGET = main
+TARGET = optimised
 
 .PHONY: all clean
 all: $(TARGET)
