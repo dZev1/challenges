@@ -1,2 +1,3 @@
-# challenges
-Doing challenges from advent of code and leetcode
+# Challenges
+
+Doing challenges from advent of code, leetcode and some practical coding challenges.
